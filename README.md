@@ -27,7 +27,7 @@ Results for: $\mathcal{B}(h \to SS)$ vs $\sin\theta$
 -  m(S) in [30,40] GeV: [.png](plots_sintheta/BC5_comparison_sintheta_30_40GeV_all.png), [.pdf](plots_sintheta/BC5_comparison_sintheta_30_40GeV_all.pdf)
 -  m(S) in [55,60] GeV: [.png](plots_sintheta/BC5_comparison_sintheta_55_60GeV_all.png), [.pdf](plots_sintheta/BC5_comparison_sintheta_55_60GeV_all.pdf)
 
-Results in 2D plane: {$m(S), \sin\theta$}
+Results in 2D plane: $m(S), \sin\theta$
 - LHC constraints at $\mathcal{B}(h \to SS) = 1\%$: [.png](plots_sintheta/combined_exclusion_sintheta_BR_0.01_log.png), [.pdf](plots_sintheta/combined_exclusion_sintheta_BR_0.01_log.png)
 - LHC constraints vs $\mathcal{B}(h \to SS)$: [.png](plots_sintheta/combined_exclusion_multi_threshold_sintheta_log.png), [.pdf](plots_sintheta/combined_exclusion_multi_threshold_sintheta_log.png)
 - HL-LHC projections:
@@ -44,7 +44,7 @@ Results for: $\mathcal{B}(h \to SS)$ vs $\sin^{2}\theta$
 -  m(S) in [30,40] GeV: [.png](plots_sin2theta/BC5_comparison_sin2theta_30_40GeV_all.png), [.pdf](plots_sin2theta/BC5_comparison_sin2theta_30_40GeV_all.pdf)
 -  m(S) in [55,60] GeV: [.png](plots_sin2theta/BC5_comparison_sin2theta_55_60GeV_all.png), [.pdf](plots_sin2theta/BC5_comparison_sin2theta_55_60GeV_all.pdf)
 
-Results in 2D plane: {$m(S), \sin^{2}\theta$}
+Results in 2D plane: $m(S), \sin^{2}\theta$
 - LHC constraints at $\mathcal{B}(h \to SS) = 1\%$: [.png](plots_sin2theta/combined_exclusion_sin2theta_BR_0.01_log.png), [.pdf](plots_sin2theta/combined_exclusion_sin2theta_BR_0.01_log.png)
 - LHC constraints vs $\mathcal{B}(h \to SS)$: [.png](plots_sin2theta/combined_exclusion_multi_threshold_sin2theta_log.png), [.pdf](plots_sin2theta/combined_exclusion_multi_threshold_sin2theta_log.png)
 - HL-LHC projections:
